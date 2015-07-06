@@ -1,0 +1,6 @@
+# minetestforge
+ForgeV4 mod for Minetest and InfinityCraft is a set of libraries for easy modding (like MinecraftForge).
+Installing:
+1) Install either Minetest or InfinityCraft.
+2) Place this repo files to .minetest/mods/ForgeV4 (or .infinitycraft/mods/ForgeV4).
+Done!
